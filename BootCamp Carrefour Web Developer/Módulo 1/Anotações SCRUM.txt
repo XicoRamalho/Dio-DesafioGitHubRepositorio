@@ -1,0 +1,6 @@
+SCRUM é uma forma de gestão de projetos ágio.
+SCRUM: Projetos com equipes pequenas e multidisciplinares
+Gera maior potencial para o cliente
+Projeto vai se adaptando ao longo do tempo
+Pilares: Transparência, Adaptação e Inspeção
+Papéis: Product Owner, Scrum Master, Equipe de Desenvolvimento (3 a 9 pessoas). 

@@ -1,0 +1,9 @@
+Anotações Git/GitHub
+Git Bash é um terminal extendido para a otimização do Uso do Git
+Comandos Importantes
+Git Clone: Clona repositório Online
+Git Status: Mostra status da pasta e se algo foi modificado.
+Git Add .: Coloca novos arquivos no controle de versão local
+Git Commit -m "": Salva o arquivo no local e prepara para o envio até a nuvem.
+Git Push Origin Main: Envia arquivos do servidor local para o GitHub
+ 
